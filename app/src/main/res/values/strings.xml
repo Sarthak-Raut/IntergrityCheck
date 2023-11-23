@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Integrity Check</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="patch_function">Patch Function</string>
+</resources>
